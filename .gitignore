@@ -1,0 +1,62 @@
+# Visual Studio / IDE
+.vs/
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.opensdf
+*.VC.db
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Auto-generated project files
+*.xcodeproj/
+*.xcworkspace/
+*.sln
+*.opensdf
+*.VC.db
+
+# Unreal Engine temporary or intermediate files
+*.log
+*.pdb
+*.ipch
+*.obj
+*.iobj
+*.idb
+*.sbr
+*.aps
+*.pch
+*.vspscc
+*.vscode/
+
+# If you want to track assets, comment out the last two lines.
+# Otherwise, ignore built assets as well.
+Content/StarterContent/
+
+# Config files that can be regenerated
+*.ini
+
+# CMake files if using CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Crash dumps
+*.dmp
+
+# User-specific settings
+*.local
